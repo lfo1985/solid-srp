@@ -1,13 +1,7 @@
-## Comando para inicializar o composer.json
+## Instalação das dependências
 
 ```bash
-composer init
-```
-
-## Comando para criar o ambiente de teste unitário
-
-```bash
-require --dev --prefer-dist phpunit/phpunit
+composer install
 ```
 
 ## Comando para executar o PHPUnit
